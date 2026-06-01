@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-**This website is under construction.**
+<!-- **This website is under construction.** -->
 
 About me
 ------
-I'm Kewei Wang, a second-year PhD student at [Courant Institute, New York University](https://cims.nyu.edu/dynamic/). My advisor is Prof. [Georg Stadler](https://math.nyu.edu/~stadler/). Before that, I completed my BS in computational mathematics at Peking University.
+I'm Kewei Wang, a second-year PhD student at [Courant Institute, New York University](https://cims.nyu.edu/dynamic/). My advisor is Prof. [Georg Stadler](https://math.nyu.edu/~stadler/).
+
+Before that, I completed my BS in computational mathematics at Peking University, during which time I worked with Prof. [Kui Ren](https://www.apam.columbia.edu/faculty/kui-ren) of Columbia University on a summer research project.
 
 News
 ------
-2026.4 I presented a [poster](/files/ICERM_2026_Kewei.pdf) at the [ICERM workshop](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w3): Simulation-Based Optimization with Applications
+**2026.4** I presented a [poster](/files/ICERM_2026_Kewei.pdf) at the [ICERM workshop](https://icerm.brown.edu/program/semester_program_workshop/sp-s26-w3): Simulation-Based Optimization with Applications.
 
-2025.10 I presented a [poster](/files/IMSI_2025_Kewei.pdf) at the [IMSI workshop](https://www.imsi.institute/activities/digital-twins/optimal-control-and-decision-making-under-uncertainty-for-digital-twins/): Optimal Control and Decision Making Under Uncertainty for Digital Twins
+**2025.10** I presented a [poster](/files/IMSI_2025_Kewei.pdf) at the [IMSI workshop](https://www.imsi.institute/activities/digital-twins/optimal-control-and-decision-making-under-uncertainty-for-digital-twins/): Optimal Control and Decision Making Under Uncertainty for Digital Twins.
 <!-- **2024.3** Decided to go to NYU Courant for PhD.  -->
 
 <!--
