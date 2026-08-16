@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+Instructor
+---
+
+**Written exam workshop: Linear Algebra**, Summer 2026
+
 Teaching Assistant
 ---
 

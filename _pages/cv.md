@@ -11,4 +11,4 @@ redirect_from:
 
 {% include base_path %}
 
-Here is my [CV](/files/CV.pdf).
+Here is my [CV](/files/CV.pdf) (updated 2026.8).
